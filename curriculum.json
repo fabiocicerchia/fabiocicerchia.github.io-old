@@ -1662,28 +1662,21 @@
             "email": "info@fabiocicerchia.it"
         },
         "focus_on": {
-            "Arduino": "http://www.arduino.cc/",
             "Backbone.js": "http://backbonejs.org/",
             "Burp": "http://portswigger.net/burp/",
-            "Cacti": "http://www.cacti.net/",
             "Catalyst": "http://www.catalystframework.org/",
             "Dart": "http://www.dartlang.org/",
-            "Django": "https://www.djangoproject.com/",
             "Doctrine 2": "http://www.doctrine-project.org/",
             "Gearman": "http://gearman.org/",
             "Hadoop": "http://hadoop.apache.org/",
             "Haskell": "http://www.haskell.org/haskellwiki/Haskell",
-            "HeadJS": "http://headjs.com/",
             "Hubot": "http://hubot.github.com/",
-            "Jackrabbit": "http://jackrabbit.apache.org/",
             "Knockout": "http://knockoutjs.com/",
             "LESS": "http://lesscss.org/",
             "Lucene": "http://lucene.apache.org/core/index.html",
             "Mocha": "http://visionmedia.github.com/mocha/",
             "Node.js": "http://nodejs.org/",
-            "PhoneGap": "http://phonegap.com/",
             "Puppet": "http://puppetlabs.com/",
-            "Raspberry Pi": "http://www.raspberrypi.org/",
             "SPDY": "http://www.chromium.org/spdy",
             "Sass": "http://sass-lang.com/",
             "Symfony 2": "http://symfony.com/",
@@ -1699,8 +1692,8 @@
             "it_IT": "maschio"
         },
         "info": {
-            "en_GB": "I'm a passionate <strong>Web Developer</strong> with about <strong>10 years of commercial experience</strong>, I work either on <em>front-end</em> or <em>back-end</em>. I like also work in such different areas like <strong>SEO</strong>, <strong>Accessibility</strong> and <strong>Project Management</strong>. I'm looking at any time for new challenges and incentives to keep myself at the <strong>cutting edge</strong>. I like to <strong>share the knowledge</strong> to help everyone whenever possible, I enjoy even the constructive co-workers competition that ends up to either <em>knowledge-growing</em> or <em>product quality improvement</em>. I like to <em>spend my spare time to study</em> new technologies and methodologies to be applied the next day at work.\nSince the early 2000s I've been focused to the web development, and nowadays I'm almost totally involved with <strong>PHP</strong> and <strong>JS</strong> applications. I've obtained certification as <em>PHP 5 Engineer</em> and <em>IWA Application Developer</em>. Just for passion, curiosity and interest I've created <strong>Bonzai</strong>, an open-source tool for encoding the PHP projects. That kept me involved over the years a lot on the study of the PHP Core, the writing of a custom extension in C and the source code analysis.\nIn the last years I was committed on two big project, a web portal for an healthcare company and a real-time statistic system e-commerce oriented, by these projects I've got direct experience about <strong>agile development</strong> and about <strong>mentoring</strong> junior developers. I do like <strong>refactoring</strong> (sometimes just to improve either performance or scalability), <strong>documentation</strong> (not only about code), and <strong>testing</strong> that are anything but boring. I also had the opportunity to put mind and hands directly on the project management, following several aspects of those projects' life cycle.\nLately I've been involved in the learning, either for fun or work, of <em>Doctrine 2</em>, <em>MongoDB</em>, <em>Perl</em>, <em>Puppet</em>, <em>Python</em>, <em>Redis</em>, <em>Symfony 2</em>, <em>Vagrant</em>, <em>XPath</em> and <em>Zend Framework</em>, and I'm going to start with <em>Arduino</em>, <em>Cacti</em>, <em>Node.js</em>, <em>Raspberry Pi</em> and <em>mod_pagespeed</em>.",
-            "it_IT": "Sono un <strong>Web Developer</strong> appassionato con circa <strong>10 anni di esperienza commerciale</strong>, lavoro sia sul <em>front-end</em> che sul <em>back-end</em>. Mi piace anche lavorare in settori diversi, come <strong>SEO</strong>, <strong>Accessibilit&agrave;</strong> e <strong>Project Management</strong>. Sono in cerca in ogni momento di nuove sfide e stimoli per <strong>tenermi all'avanguardia</strong>. Mi piace condividere la conoscenza per aiutare le persone quando possibile, mi diverto anche nella competizione costruttiva tra colleghi che sfocia nella <em>crescita delle conoscenze</em> o nell'<em>aumento della qualit&agrave; del prodotto</em>. Mi piace <em>spendere il mio tempo libero studiando</em> nuove tecnologie e metodologie da poter applicare il giorno successivo a lavoro.\nDai primi anni 2000 sono stato concentrato sullo sviluppo web, e ora sono quasi totalmente impegnato con applicazioni <strong>PHP</strong> e <strong>JS</strong>. Ho ottenuto certificazioni come <em>PHP 5 Engineer</em> e <em>IWA ApplicationDeveloper</em>. Giusto per passione, curiosit&agrave; e interesse ho creato <strong>Bonzai</strong>, uno strumento open-source per la codifica dei progetti PHP. Questo mi ha tenuto coinvolto nel corso degli anni molto sullo studio del core di PHP, nella scrittura di un'estensione personalizzata in C e nell'analisi del codice sorgente.\nNegli ultimi anni sono stato </span>concentrato su</span> due grandi progetti, un portale web per una azienda ospedaliera e un sistema di statistiche in tempo reale dedicato all'ecommerce, attraverso questi progetti ho avuto esperienza diretta di <strong>sviluppo agile</strong> e sul tutoraggio di junior developers. Mi piace il <strong>refactoring</strong> (alcune volte semplicemente per migliorare le performance o la scalabilit&agrave;), la <strong>documentazione</strong> (non solo del codice), ed il <strong>testing</strong> che sono tutt'altro che noiosi. Ho </span>anche </span>avuto l'opportunit&agrave; di mettere la mente e le mani direttamente nella gestione del progetto, seguendo diversi aspetti del ciclo di vita d</span>i quei progetti.\nUltimamente sto stato impegnato nell'apprendimento, sia per divertimento che per lavoro, di <em>Doctrine 2</em>, <em>MongoDB</em>, <em>Perl</em>, <em>Puppet</em>, <em>Python</em>, <em>Redis</em>, <em>Symfony 2</em>, <em>Vagrant</em>, <em>XPath</em>, <em>ZendFramework</em>, e sto per iniziare con <em>Arduino</em>, <em>Cacti</em>, <em>Node.js</em>, <em>Raspberry Pi</em> e <em>mod_pagespeed</em>."
+            "en_GB": "<p>I'm a passionate <strong>Web Developer</strong> with about <strong>10 years</strong> of commercial experience, I work either on <em>front-end</em> or <em>back-end</em>. I also like to work in such different areas like <strong>SEO</strong>, <strong>Accessibility</strong> and <strong>Project Management</strong>. I'm looking at any time for new challenges and incentives to keep myself at the <strong>cutting edge</strong>. <strong>I like to share the knowledge to help everyone whenever possible</strong>. I like to <em>spend my spare time to study</em> new technologies and methodologies that might be applied the next day at work.</p><p>Since the early 2000s I've been focused to the web development, and nowadays I'm almost totally involved in <strong>PHP</strong> and <strong>JS</strong> applications. I've obtained certification as <em>PHP 5 Engineer</em> and <em>IWA Application Developer</em>.</p><p>In the last years I was committed on two big project, a web portal for a healthcare company and a real-time statistic system, by these projects I've got direct experience about <strong>agile development, project management and about mentoring developers.</strong> I do like <strong>refactoring</strong> (sometimes just to improve either performance or scalability), <strong>documentation</strong> (not only about code), and <strong>testing</strong> that are anything but boring.</p><p>Lately I've been involved in the learning, either for fun or work, of <em>Doctrine 2</em>, <em>MongoDB</em>, <em>Perl</em>, <em>Puppet</em>, <em>Python</em>, <em>Redis</em>, <em>Symfony 2</em>, <em>Vagrant</em>, <em>XPath</em> and <em>Zend Framework</em>, and I'm going to start with <em>Arduino</em>, <em>Cacti</em>, <em>Node.js</em>, <em>Raspberry Pi</em> and <em>mod_pagespeed</em>.</p>",
+            "it_IT": "<p>Sono un <strong>Web Developer</strong> appassionato con circa <strong>10 anni</strong> di esperienza commerciale, lavoro sia sul <em>front-end</em> che sul <em>back-end</em>. Mi piace anche lavorare in settori diversi, come <strong>SEO</strong>, <strong>Accessibilit&agrave;</strong> e <strong>Project Management</strong>. Sono in cerca in ogni momento di nuove sfide e stimoli per <strong>tenermi all'avanguardia</strong>. <strong>Mi piace condividere la conoscenza per aiutare le persone quando possibile</strong>. Mi piace <em>spendere il mio tempo libero studiando</em> nuove tecnologie e metodologie che potrebbero essere applicare il giorno successivo a lavoro.</p><p>Dai primi anni 2000 sono stato concentrato sullo sviluppo web, e ora sono quasi totalmente impegnato con applicazioni <strong>PHP</strong> e <strong>JS</strong>. Ho ottenuto certificazioni come <em>PHP 5 Engineer</em> e <em>IWA ApplicationDeveloper</em>.</p><p>Negli ultimi anni sono stato concentrato su due grandi progetti, un portale web per una azienda ospedaliera e un sistema di statistiche in tempo reale, attraverso questi progetti ho avuto esperienza diretta di <strong>sviluppo agile, project management e sul mentoring di developers</strong>. Mi piace il <strong>refactoring</strong> (alcune volte semplicemente per migliorare le performance o la scalabilit&agrave;), la <strong>documentazione</strong> (non solo del codice), ed il <strong>testing</strong> che sono tutt'altro che noiosi.</p><p>Ultimamente sono stato impegnato nell'apprendimento, sia per divertimento che per lavoro, di <em>Doctrine 2</em>, <em>MongoDB</em>, <em>Perl</em>, <em>Puppet</em>, <em>Python</em>, <em>Redis</em>, <em>Symfony 2</em>, <em>Vagrant</em>, <em>XPath</em>, <em>ZendFramework</em>, e sto per iniziare con <em>Arduino</em>, <em>Cacti</em>, <em>Node.js</em>, <em>Raspberry Pi</em> e <em>mod_pagespeed</em>.</p>"
         },
         "interest": {
             "en_GB": [
@@ -1724,7 +1717,7 @@
                 "en_GB": "London",
                 "it_IT": "Londra"
             },
-            "coordinates": "51.558423,-0.212517",
+            "coordinates": "51.549124,-0.22155",
             "country_code": "GB",
             "country": {
                 "en_GB": "United Kingdom",
@@ -1759,7 +1752,8 @@
                 "reading": "B1",
                 "spoken interaction": "B1",
                 "spoken production": "B1",
-                "writing": "B1"
+                "writing": "B1",
+                "overall": "B1"
             },
             "language": {
                 "en_GB": "English",
@@ -1773,7 +1767,8 @@
                 "reading": "C2",
                 "spoken interaction": "C2",
                 "spoken production": "C2",
-                "writing": "C2"
+                "writing": "C2",
+                "overall": "C2"
             },
             "language": {
                 "en_GB": "Italian",
